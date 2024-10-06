@@ -4,9 +4,9 @@
         {
             "type": "ttf",
             "file": "minecraft:udevgothic35hs-bold.ttf",
-            "shift": [0.4, -0.6],
-            "size": 7.0,
-            "oversample": 3
+            "shift": [0.2, -0.8],
+            "size": 8.0,
+            "oversample": 6
         }
  	]
 }

@@ -4,9 +4,9 @@
         {
             "type": "ttf",
             "file": "minecraft:migu-1c-bold.ttf",
-            "shift": [-0.4, -1.0],
-            "size": 7.0,
-            "oversample": 3
+            "shift": [-0.5, -0.7],
+            "size": 8.0,
+            "oversample": 6
         }
  	]
 }
